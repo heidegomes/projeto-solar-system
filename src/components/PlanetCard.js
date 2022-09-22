@@ -14,7 +14,6 @@ class PlanetCard extends React.Component {
   }
 }
 
-// desafio do propTypes
 PlanetCard.propTypes = {
   planetName: PropTypes.string.isRequired,
   planetImage: PropTypes.string.isRequired,
