@@ -1,3 +1,11 @@
 .App {
   text-align: center;
 }
+
+body {
+  background: 'src/images/background.png;'
+}
+
+.solar-system {
+  background-color: red;
+}
